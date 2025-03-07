@@ -22,7 +22,9 @@ To deploy a pre-trained model using **HUGGING FACE SPACES** and making it access
 
 
 - Output Visualization:
+![Image](https://github.com/user-attachments/assets/edc27446-24a5-4ef0-b226-ba0a4aa23a70)
 
+![Image](https://github.com/user-attachments/assets/14ac8609-df23-4954-a6d1-a1718b504873)
 
 
   
