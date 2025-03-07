@@ -1,6 +1,6 @@
 # TransArt-A-Multimodal-Application-for-Vernacular-Language-Translation-and-Image-Synthesis
 ## Objective:
-To deploy a pre-trained model using HUGGING FACE SPACES and making it accessible through a web application built with Gradio.
+To deploy a pre-trained model using **HUGGING FACE SPACES** and making it accessible through a web application built with **Gradio**.
 ## Key Features:
 - **Tamil Audio to Tamil Text** : Converts Tamil speech into text using **openai/whisper-large-v3** model.
 - **Tamil Text to English Translation** : Accurately translates transcribed Tamil text to English using **facebook/nllb-200-distilled-600M model**.
@@ -17,8 +17,13 @@ To deploy a pre-trained model using HUGGING FACE SPACES and making it accessible
 - Link for the Hugging Face Space:
 
     link: https://huggingface.co/spaces/HARITHASREE/Audio_to_image
+  
+- Generated image:
+
 
 - Output Visualization:
+
+
 
   
 
