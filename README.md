@@ -18,8 +18,10 @@ To deploy a pre-trained model using **HUGGING FACE SPACES** and making it access
 
     link: https://huggingface.co/spaces/HARITHASREE/Audio_to_image
   
-- Generated image:
+- AI Generated Image:
 
+
+![Image](https://github.com/user-attachments/assets/6f65eccf-7aeb-4704-8aaa-35a0474e231e)
 
 - Output Visualization:
 ![Image](https://github.com/user-attachments/assets/edc27446-24a5-4ef0-b226-ba0a4aa23a70)
