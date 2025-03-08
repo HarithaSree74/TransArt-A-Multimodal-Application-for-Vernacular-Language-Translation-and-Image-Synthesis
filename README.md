@@ -4,7 +4,7 @@ To deploy a pre-trained model using **HUGGING FACE SPACES** and making it access
 ## Key Features:
 - **Tamil Audio to Tamil Text** : Converts Tamil speech into text using **openai/whisper-large-v3** model.
 - **Tamil Text to English Translation** : Accurately translates transcribed Tamil text to English using **facebook/nllb-200-distilled-600M model**.
-- **English Text to Image** : Converts text to high-quality AI generated images using **black-forest-labs/FLUX.1-schnell** model.
+- **English Text to Image** : Converts text to high-quality AI generated images using **black-forest-labs/FLUX.1-dev** model.
 - **English Text to Further Text Generation** : Generates engaging written content from the translated text using **deepseek-ai/DeepSeek-R1-Distill-Qwen-32B** model.
 ## Business Use Cases:
 - **Educational Tools:**
